@@ -1,0 +1,519 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "type": "Pome",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg",
+      "nbr": 114000
+    },
+    {
+      "id": "2",
+      "name": "Banana",
+      "type": "Berry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bananas_white_background.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "3",
+      "name": "Cherry",
+      "type": "Drupe",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cherry_Stella444.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "4",
+      "name": "Mango",
+      "type": "Drupe",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hapus_Mango.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "5",
+      "name": "Grape",
+      "type": "Berry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Table_grapes_on_white.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "6",
+      "name": "Orange",
+      "type": "Citrus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "7",
+      "name": "Pineapple",
+      "type": "Multiple",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Pineapple_and_cross_section.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "8",
+      "name": "Strawberry",
+      "type": "Aggregate",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/PerfectStrawberry.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "9",
+      "name": "Blueberry",
+      "type": "Berry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Blueberries.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "1000",
+      "name": "Lemon",
+      "type": "Citrus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Lemon_-_whole_and_split.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "11",
+      "name": "Tomato",
+      "type": "Berry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "12",
+      "name": "Avocado",
+      "type": "Berry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Persea_americana_fruit_2.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "13",
+      "name": "Peach",
+      "type": "Drupe",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Peach_and_cross_section.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "14",
+      "name": "Plum",
+      "type": "Drupe",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Plums.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "15",
+      "name": "Pear",
+      "type": "Pome",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Pears.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "16",
+      "name": "Carrot",
+      "type": "Root",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Carrot_on_white_background.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "17",
+      "name": "Spinach",
+      "type": "Leafy green",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Spinach_leaves.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "18",
+      "name": "Broccoli",
+      "type": "Cruciferous",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Broccoli_and_cross_section_edit.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "19",
+      "name": "Potato",
+      "type": "Tuber",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Kartoffel-Aardappel.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "20",
+      "name": "Cucumber",
+      "type": "Gourd",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cucumis_sativus.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "21",
+      "name": "Zucchini",
+      "type": "Gourd",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Zucchini_with_flower.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "22",
+      "name": "Eggplant",
+      "type": "Berry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Eggplant.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "23",
+      "name": "Bell Pepper",
+      "type": "Berry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Capsicum_annuum_fruit_various.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "24",
+      "name": "Green Bean",
+      "type": "Legume",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Green_beans_in_India.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "25",
+      "name": "Peas",
+      "type": "Legume",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Peas_in_pods_-_studio.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "26",
+      "name": "Lentil",
+      "type": "Legume",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Lentils_02_p100030065.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "27",
+      "name": "Chickpea",
+      "type": "Legume",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Chickpea.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "28",
+      "name": "Soybean",
+      "type": "Legume",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Soybean.USDA.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "29",
+      "name": "Black Beans",
+      "type": "Legume",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/BlackBeans.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "30",
+      "name": "Kiwi",
+      "type": "Berry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kiwi_aka.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "31",
+      "name": "Watermelon",
+      "type": "Berry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Watermelon_cross_BNC.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "32",
+      "name": "Papaya",
+      "type": "Berry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Papaya_cross_section.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "33",
+      "name": "Radish",
+      "type": "Root",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Radish_01.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "34",
+      "name": "Celery",
+      "type": "Stem",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Celery_cross_section.jpg",
+      "nbr": 1000
+    },
+    {
+      "id": "35",
+      "name": "Brussels Sprouts",
+      "type": "Cruciferous",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Eggplant.jpg",
+      "nbr": 1000
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "username": "abderahmen",
+      "email": "abderahmen@gmail.com",
+      "password": "abderahmen"
+    }
+  ],
+  "utilisateur":[
+    {
+        "id": 1,
+        "nom": "El Amrani",
+        "prenom": "Ahmed",
+        "cin": "A123456",
+        "role": "cuisine",
+        "email": "ahmed.elamrani@example.com",
+        "password": "password1"
+    },
+    {
+        "id": 2,
+        "nom": "Bennani",
+        "prenom": "Fatima",
+        "cin": "B234567",
+        "role": "serveur",
+        "email": "fatima.bennani@example.com",
+        "password": "password2"
+    },
+    {
+        "id": 3,
+        "nom": "El Khatib",
+        "prenom": "Mohamed",
+        "cin": "C345678",
+        "role": "garant",
+        "email": "mohamed.elkhatib@example.com",
+        "password": "password3"
+    },
+    {
+        "id": 4,
+        "nom": "Fassi",
+        "prenom": "Khadija",
+        "cin": "D456789",
+        "role": "cuisine",
+        "email": "khadija.fassi@example.com",
+        "password": "password4"
+    },
+    {
+        "id": 5,
+        "nom": "Rami",
+        "prenom": "Youssef",
+        "cin": "E567890",
+        "role": "serveur",
+        "email": "youssef.rami@example.com",
+        "password": "password5"
+    },
+    {
+        "id": 6,
+        "nom": "Tazi",
+        "prenom": "Amina",
+        "cin": "F678901",
+        "role": "garant",
+        "email": "amina.tazi@example.com",
+        "password": "password6"
+    },
+    {
+        "id": 7,
+        "nom": "Zouiten",
+        "prenom": "Hicham",
+        "cin": "G789012",
+        "role": "cuisine",
+        "email": "hicham.zouiten@example.com",
+        "password": "password7"
+    },
+    {
+        "id": 8,
+        "nom": "Bennis",
+        "prenom": "Nadia",
+        "cin": "H890123",
+        "role": "serveur",
+        "email": "nadia.bennis@example.com",
+        "password": "password8"
+    },
+    {
+        "id": 9,
+        "nom": "El Idrissi",
+        "prenom": "Omar",
+        "cin": "I901234",
+        "role": "garant",
+        "email": "omar.elidrissi@example.com",
+        "password": "password9"
+    },
+    {
+        "id": 10,
+        "nom": "Mansouri",
+        "prenom": "Leila",
+        "cin": "J012345",
+        "role": "cuisine",
+        "email": "leila.mansouri@example.com",
+        "password": "password10"
+    },
+    {
+        "id": 11,
+        "nom": "Amrani",
+        "prenom": "Karim",
+        "cin": "K123456",
+        "role": "serveur",
+        "email": "karim.amrani@example.com",
+        "password": "password11"
+    },
+    {
+        "id": 12,
+        "nom": "Cherkaoui",
+        "prenom": "Saida",
+        "cin": "L234567",
+        "role": "garant",
+        "email": "saida.cherkaoui@example.com",
+        "password": "password12"
+    },
+    {
+        "id": 13,
+        "nom": "Alaoui",
+        "prenom": "Mehdi",
+        "cin": "M345678",
+        "role": "cuisine",
+        "email": "mehdi.alaoui@example.com",
+        "password": "password13"
+    },
+    {
+        "id": 14,
+        "nom": "Bakkali",
+        "prenom": "Salma",
+        "cin": "N456789",
+        "role": "serveur",
+        "email": "salma.bakkali@example.com",
+        "password": "password14"
+    },
+    {
+        "id": 15,
+        "nom": "Chaoui",
+        "prenom": "Rachid",
+        "cin": "O567890",
+        "role": "garant",
+        "email": "rachid.chaoui@example.com",
+        "password": "password15"
+    },
+    {
+        "id": 16,
+        "nom": "Kabbaj",
+        "prenom": "Sara",
+        "cin": "P678901",
+        "role": "cuisine",
+        "email": "sara.kabbaj@example.com",
+        "password": "password16"
+    },
+    {
+        "id": 17,
+        "nom": "El Ouafi",
+        "prenom": "Anas",
+        "cin": "Q789012",
+        "role": "serveur",
+        "email": "anas.elouafi@example.com",
+        "password": "password17"
+    },
+    {
+        "id": 18,
+        "nom": "Chakib",
+        "prenom": "Imane",
+        "cin": "R890123",
+        "role": "garant",
+        "email": "imane.chakib@example.com",
+        "password": "password18"
+    },
+    {
+        "id": 19,
+        "nom": "Belkacem",
+        "prenom": "Nabil",
+        "cin": "S901234",
+        "role": "cuisine",
+        "email": "nabil.belkacem@example.com",
+        "password": "password19"
+    },
+    {
+        "id": 20,
+        "nom": "Zerouali",
+        "prenom": "Hanae",
+        "cin": "T012345",
+        "role": "serveur",
+        "email": "hanae.zerouali@example.com",
+        "password": "password20"
+    }
+],  "menu": [
+  {
+    "id": 1,
+    "titre": "Plat de Pasta",
+    "prix": "20 MAD",
+    "image": "menu_food/food1.jpeg"
+  },
+  {
+    "id": 2,
+    "titre": "Kefta et tomate",
+    "prix": "30 MAD",
+    "image": "menu_food/food2.jpeg"
+  },
+  {
+    "id": 3,
+    "titre": "Kefta et tomate",
+    "prix": "30 MAD",
+    "image": "menu_food/food3.jpg"
+  },
+  {
+    "id": 4,
+    "titre": "Plat de lham",
+    "prix": "50 MAD",
+    "image": "menu_food/food4.jpeg"
+  },
+  {
+    "id": 5,
+    "titre": "Chwa",
+    "prix": "20 MAD",
+    "image": "menu_food/food5.jpg"
+  },
+  {
+    "id": 6,
+    "titre": "Bourkour",
+    "prix": "50 MAD",
+    "image": "menu_food/food6.jpeg"
+  },
+  {
+    "id": 7,
+    "titre": "Tajin bourkur",
+    "prix": "20 MAD",
+    "image": "menu_food/food7.jpeg"
+  },
+  {
+    "id": 8,
+    "titre": "Tram",
+    "prix": "20 MAD",
+    "image": "menu_food/food8.jpeg"
+  },
+  {
+    "id": 9,
+    "titre": "Briwate",
+    "prix": "20 MAD",
+    "image": "menu_food/food9.jpg"
+  },
+  {
+    "id": 10,
+    "titre": "Tajin lham barkok",
+    "prix": "20 MAD",
+    "image": "menu_food/food10.jpeg"
+  },
+  {
+    "id": 11,
+    "titre": "Tajin lham tram",
+    "prix": "20 MAD",
+    "image": "menu_food/food11.jpeg"
+  },
+  {
+    "id": 12,
+    "titre": "Bolfaf",
+    "prix": "20 MAD",
+    "image": "menu_food/food12.jpeg"
+  },
+  {
+    "id": 13,
+    "titre": "Kafta",
+    "prix": "20 MAD",
+    "image": "menu_food/food13.jpeg"
+  }
+]
+
+}
